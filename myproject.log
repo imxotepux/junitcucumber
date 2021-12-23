@@ -1,0 +1,8 @@
+21:36:51,824  INFO main DataBaseConnection:getDataBaseValue:28 - DB data executed successfully
+21:36:51,847  INFO main DataBaseConnection:getDataBaseValue:28 - DB data executed successfully
+21:43:46,078  INFO main DataBaseConnection:getDataBaseValue:28 - DB data executed successfully
+21:43:46,099  INFO main DataBaseConnection:getDataBaseValue:28 - DB data executed successfully
+21:43:46,100  INFO main DataBaseConnection:LoginSteps:36 - Test was started
+21:43:55,163  INFO main DataBaseConnection:loginIntoMailBox:47 - Browser was started on https://mail.ru
+21:43:59,339  INFO main DataBaseConnection:Logout:63 - Login was successfully completed
+21:44:05,382  INFO main DataBaseConnection:afterClass:71 - Test was finished
